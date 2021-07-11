@@ -4,5 +4,6 @@
   "documentation": "https://www.home-assistant.io/integrations/mitemp_bt",
   "requirements": [],
   "dependencies": [],
+  "version": "0.0.3-beta",
   "codeowners": ["@gallynero"]
 }
